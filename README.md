@@ -14,8 +14,14 @@ When we are ready to make changes to the main branch, it is called merging.
 Commit are the changes that we make on a project.
 Each commit has a commit message, which is a description of the changed made.
 Commit messages exists so that you and other contributors can understand what change was made and why.
+So we basically make changes to a file and push them to GitHub (remote repository) as commits.
 
 At any point, we can always go and look back at past changes made in a project.
 This is called version control.
 This is helpful in case we ever want to go back to a previous version of a project, we can.
 
+Pull requests is when we are proposing our changes and requesting that someone review
+and pull in our contribution and merge them into their branch.
+The branch doesn't necessarily have to be the main branch, but it can.
+
+Pull requests shows diff, or differences, of the content from both branches.
